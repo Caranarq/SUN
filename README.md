@@ -1,6 +1,8 @@
 # ASIGNAR CLAVES DEL SISTEMA URBANO NACIONAL
 Script para asignar claves del Sistema Urbano Nacional a un Pandas DataFrame existente 
+
 Informacion del Sistema Urbano Nacional obtenida desde: http://www.conapo.gob.mx/es/CONAPO/Partes_I_a_V_-_Catalogo_Sistema_Urbano_Nacional_2012
+
 sistema urbano nacional csv obtenido a mano desde el PDF.
 
 **Contenido:**
