@@ -1,0 +1,813 @@
+﻿CVE_SUN,CVE_ENT,NOM_ENT,CVE_MUN,NOM_MUN,CVE_LOC,NOM_LOC,NOM_SUN,TIPO
+01,01,Aguascalientes,01001,Aguascalientes,,,Aguascalientes,1
+01,01,Aguascalientes,01005,Jesús María,,,Aguascalientes,1
+01,01,Aguascalientes,01011,San Francisco de los Romo,,,Aguascalientes,1
+02,02,Baja California,02003,Tecate,,,Tijuana,1
+02,02,Baja California,02004,Tijuana,,,Tijuana,1
+02,02,Baja California,02005,Playas de Rosarito,,,Tijuana,1
+03,02,Baja California,02002,Mexicali,,,Mexicali,1
+04,05,Coahuila de Zaragoza,05017,Matamoros,,,La Laguna,1
+04,05,Coahuila de Zaragoza,05035,Torreón,,,La Laguna,1
+04,10,Durango,10007,Gómez Palacio,,,La Laguna,1
+04,10,Durango,10012,Lerdo,,,La Laguna,1
+05,05,Coahuila de Zaragoza,05004,Arteaga,,,Saltillo,1
+05,05,Coahuila de Zaragoza,05027,Ramos Arizpe,,,Saltillo,1
+05,05,Coahuila de Zaragoza,05030,Saltillo,,,Saltillo,1
+06,05,Coahuila de Zaragoza,05006,Castaños,,,Monclova-Frontera,1
+06,05,Coahuila de Zaragoza,05010,Frontera,,,Monclova-Frontera,1
+06,05,Coahuila de Zaragoza,05018,Monclova,,,Monclova-Frontera,1
+07,05,Coahuila de Zaragoza,05022,Nava,,,Piedras Negras,1
+07,05,Coahuila de Zaragoza,05025,Piedras Negras,,,Piedras Negras,1
+08,06,Colima,06002,Colima,,,Colima-Villa de Álvarez,1
+08,06,Colima,06003,Comala,,,Colima-Villa de Álvarez,1
+08,06,Colima,06004,Coquimatlán,,,Colima-Villa de Álvarez,1
+08,06,Colima,06005,Cuauhtémoc,,,Colima-Villa de Álvarez,1
+08,06,Colima,06010,Villa de Álvarez,,,Colima-Villa de Álvarez,1
+09,06,Colima,06001,Armería,,,Tecomán,1
+09,06,Colima,06009,Tecomán,,,Tecomán,1
+10,07,Chiapas,07012,Berriozábal,,,Tuxtla Gutiérrez,1
+10,07,Chiapas,07027,Chiapa de Corzo,,,Tuxtla Gutiérrez,1
+10,07,Chiapas,07101,Tuxtla Gutiérrez,,,Tuxtla Gutiérrez,1
+11,08,Chihuahua,08037,Juárez,,,Juárez,1
+12,08,Chihuahua,08002,Aldama,,,Chihuahua,1
+12,08,Chihuahua,08004,Aquiles Serdán,,,Chihuahua,1
+12,08,Chihuahua,08019,Chihuahua,,,Chihuahua,1
+13,09,Ciudad de México,09002,Azcapotzalco,,,Valle de México,1
+13,09,Ciudad de México,09003,Coyoacán,,,Valle de México,1
+13,09,Ciudad de México,09004,Cuajimalpa de Morelos,,,Valle de México,1
+13,09,Ciudad de México,09005,Gustavo A. Madero,,,Valle de México,1
+13,09,Ciudad de México,09006,Iztacalco,,,Valle de México,1
+13,09,Ciudad de México,09007,Iztapalapa,,,Valle de México,1
+13,09,Ciudad de México,09008,La Magdalena Contreras,,,Valle de México,1
+13,09,Ciudad de México,09009,Milpa Alta,,,Valle de México,1
+13,09,Ciudad de México,09010,Álvaro Obregón,,,Valle de México,1
+13,09,Ciudad de México,09011,Tláhuac,,,Valle de México,1
+13,09,Ciudad de México,09012,Tlalpan,,,Valle de México,1
+13,09,Ciudad de México,09013,Xochimilco,,,Valle de México,1
+13,09,Ciudad de México,09014,Benito Juárez,,,Valle de México,1
+13,09,Ciudad de México,09015,Cuauhtémoc,,,Valle de México,1
+13,09,Ciudad de México,09016,Miguel Hidalgo,,,Valle de México,1
+13,09,Ciudad de México,09017,Venustiano Carranza,,,Valle de México,1
+13,13,Hidalgo,13069,Tizayuca,,,Valle de México,1
+13,15,México,15002,Acolman,,,Valle de México,1
+13,15,México,15009,Amecameca,,,Valle de México,1
+13,15,México,15010,Apaxco,,,Valle de México,1
+13,15,México,15011,Atenco,,,Valle de México,1
+13,15,México,15013,Atizapán de Zaragoza,,,Valle de México,1
+13,15,México,15015,Atlautla,,,Valle de México,1
+13,15,México,15016,Axapusco,,,Valle de México,1
+13,15,México,15017,Ayapango,,,Valle de México,1
+13,15,México,15020,Coacalco de Berriozábal,,,Valle de México,1
+13,15,México,15022,Cocotitlán,,,Valle de México,1
+13,15,México,15023,Coyotepec,,,Valle de México,1
+13,15,México,15024,Cuautitlán,,,Valle de México,1
+13,15,México,15025,Chalco,,,Valle de México,1
+13,15,México,15028,Chiautla,,,Valle de México,1
+13,15,México,15029,Chicoloapan,,,Valle de México,1
+13,15,México,15030,Chiconcuac,,,Valle de México,1
+13,15,México,15031,Chimalhuacán,,,Valle de México,1
+13,15,México,15033,Ecatepec de Morelos,,,Valle de México,1
+13,15,México,15034,Ecatzingo,,,Valle de México,1
+13,15,México,15035,Huehuetoca,,,Valle de México,1
+13,15,México,15036,Hueypoxtla,,,Valle de México,1
+13,15,México,15037,Huixquilucan,,,Valle de México,1
+13,15,México,15038,Isidro Fabela,,,Valle de México,1
+13,15,México,15039,Ixtapaluca,,,Valle de México,1
+13,15,México,15044,Jaltenco,,,Valle de México,1
+13,15,México,15046,Jilotzingo,,,Valle de México,1
+13,15,México,15050,Juchitepec,,,Valle de México,1
+13,15,México,15053,Melchor Ocampo,,,Valle de México,1
+13,15,México,15057,Naucalpan de Juárez,,,Valle de México,1
+13,15,México,15058,Nezahualcóyotl,,,Valle de México,1
+13,15,México,15059,Nextlalpan,,,Valle de México,1
+13,15,México,15060,Nicolás Romero,,,Valle de México,1
+13,15,México,15061,Nopaltepec,,,Valle de México,1
+13,15,México,15065,Otumba,,,Valle de México,1
+13,15,México,15068,Ozumba,,,Valle de México,1
+13,15,México,15069,Papalotla,,,Valle de México,1
+13,15,México,15070,La Paz,,,Valle de México,1
+13,15,México,15075,San Martín de las Pirámides,,,Valle de México,1
+13,15,México,15081,Tecámac,,,Tecámac,1
+13,15,México,15083,Temamatla,,,Temamatla,1
+13,15,México,15084,Temascalapa,,,Temascalapa,1
+13,15,México,15089,Tenango del Aire,,,Tenango del Aire,1
+13,15,México,15091,Teoloyucan,,,Teoloyucan,1
+13,15,México,15092,Teotihuacán,,,Teotihuacán,1
+13,15,México,15093,Tepetlaoxtoc,,,Tepetlaoxtoc,1
+13,15,México,15094,Tepetlixpa,,,Tepetlixpa,1
+13,15,México,15095,Tepotzotlán,,,Tepotzotlán,1
+13,15,México,15096,Tequixquiac,,,Tequixquiac,1
+13,15,México,15099,Texcoco,,,Texcoco,1
+13,15,México,15100,Tezoyuca,,,Tezoyuca,1
+13,15,México,15103,Tlalmanalco,,,Tlalmanalco,1
+13,15,México,15104,Tlalnepantla de Baz,,,Tlalnepantla de Baz,1
+13,15,México,15108,Tultepec,,,Tultepec,1
+13,15,México,15109,Tultitlán,,,Tultitlán,1
+13,15,México,15112,Villa del Carbón,,,Villa del Carbón,1
+13,15,México,15120,Zumpango,,,Zumpango,1
+13,15,México,15121,Cuautitlán Izcalli,,,Cuautitlán Izcalli,1
+13,15,México,15122,Valle de Chalco Solidaridad,,,Valle de Chalco Solidaridad,1
+13,15,México,15125,Tonanitla,,,Tonanitla,1
+14,11,Guanajuato,11020,León,,,León,1
+14,11,Guanajuato,11037,Silao de la Victoria,,,Silao,1
+15,11,Guanajuato,11025,Purísima del Rincón,,,Purísima del Rincón,1
+15,11,Guanajuato,11031,San Francisco del Rincón,,,San Francisco del Rincón,1
+16,11,Guanajuato,11021,Moroleón,,,Moroleón,1
+16,11,Guanajuato,11041,Uriangato,,,Uriangato,1
+17,12,Guerrero,12001,Acapulco de Juárez,,,Acapulco de Juárez,1
+17,12,Guerrero,12021,Coyuca de Benítez,,,Coyuca de Benítez,1
+18,13,Hidalgo,13022,Epazoyucan,,,Epazoyucan,1
+18,13,Hidalgo,13039,Mineral del Monte,,,Mineral del Monte,1
+18,13,Hidalgo,13048,Pachuca de Soto,,,Pachuca,1
+18,13,Hidalgo,13051,Mineral de la Reforma,,,Pachuca,1
+18,13,Hidalgo,13052,San Agustín Tlaxiaca,,,Pachuca,1
+18,13,Hidalgo,13082,Zapotlán de Juárez,,,Pachuca,1
+18,13,Hidalgo,13083,Zempoala,,,Pachuca,1
+19,13,Hidalgo,13016,Cuautepec de Hinojosa,,,Tulancingo,1
+19,13,Hidalgo,13056,Santiago Tulantepec de Lugo Guerrero,,,Tulancingo,1
+19,13,Hidalgo,13077,Tulancingo de Bravo,,,Tulancingo,1
+20,13,Hidalgo,13010,Atitalaquia,,,Tula,1
+20,13,Hidalgo,13013,Atotonilco de Tula,,,Tula,1
+20,13,Hidalgo,13070,Tlahuelilpan,,,Tula,1
+20,13,Hidalgo,13074,Tlaxcoapan,,,Tula,1
+20,13,Hidalgo,13076,Tula de Allende,,,Tula,1
+21,14,Jalisco,14039,Guadalajara,,,Guadalajara,1
+21,14,Jalisco,14044,Ixtlahuacán de los Membrillos,,,Guadalajara,1
+21,14,Jalisco,14051,Juanacatlán,,,Guadalajara,1
+21,14,Jalisco,14070,El Salto,,,Guadalajara,1
+21,14,Jalisco,14097,Tlajomulco de Zúñiga,,,Guadalajara,1
+21,14,Jalisco,14098,San Pedro Tlaquepaque,,,Guadalajara,1
+21,14,Jalisco,14101,Tonalá,,,Guadalajara,1
+21,14,Jalisco,14120,Zapopan,,,Guadalajara,1
+22,14,Jalisco,14067,Puerto Vallarta,,,Puerto Vallarta,1
+22,18,Nayarit,18020,Bahía de Banderas,,,Puerto Vallarta,1
+23,14,Jalisco,14063,Ocotlán,,,Ocotlán,1
+23,14,Jalisco,14066,Poncitlán,,,Ocotlán,1
+24,15,México,15005,Almoloya de Juárez,,,Toluca,1
+24,15,México,15018,Calimaya,,,Toluca,1
+24,15,México,15027,Chapultepec,,,Toluca,1
+24,15,México,15051,Lerma,,,Toluca,1
+24,15,México,15054,Metepec,,,Toluca,1
+24,15,México,15055,Mexicaltzingo,,,Toluca,1
+24,15,México,15062,Ocoyoacac,,,Ocoyoacac,1
+24,15,México,15067,Otzolotepec,,,Otzolotepec,1
+24,15,México,15072,Rayón,,,Rayón,1
+24,15,México,15073,San Antonio la Isla,,,San Antonio la Isla,1
+24,15,México,15076,San Mateo Atenco,,,San Mateo Atenco,1
+24,15,México,15087,Temoaya,,,Temoaya,1
+24,15,México,15106,Toluca,,,Toluca,1
+24,15,México,15115,Xonacatlán,,,Xonacatlán,1
+24,15,México,15118,Zinacantepec,,,Zinacantepec,1
+25,16,Michoacán de Ocampo,16022,Charo,,,Charo,1
+25,16,Michoacán de Ocampo,16053,Morelia,,,Morelia,1
+25,16,Michoacán de Ocampo,16088,Tarímbaro,,,Tarímbaro,1
+26,16,Michoacán de Ocampo,16043,Jacona,,,Jacona,1
+26,16,Michoacán de Ocampo,16108,Zamora,,,Zamora,1
+27,11,Guanajuato,11023,Pénjamo,,,Pénjamo,1
+27,16,Michoacán de Ocampo,16069,La Piedad,,,La Piedad,1
+28,17,Morelos,17007,Cuernavaca,,,Cuernavaca,1
+28,17,Morelos,17008,Emiliano Zapata,,,Emiliano Zapata,1
+28,17,Morelos,17009,Huitzilac,,,Huitzilac,1
+28,17,Morelos,17011,Jiutepec,,,Jiutepec,1
+28,17,Morelos,17018,Temixco,,,Temixco,1
+28,17,Morelos,17020,Tepoztlán,,,Tepoztlán,1
+28,17,Morelos,17024,Tlaltizapán de Zapata,,,Tlaltizapán,1
+28,17,Morelos,17028,Xochitepec,,,Xochitepec,1
+29,17,Morelos,17002,Atlatlahucan,,,Atlatlahucan,1
+29,17,Morelos,17004,Ayala,,,Ayala,1
+29,17,Morelos,17006,Cuautla,,,Cuautla,1
+29,17,Morelos,17026,Tlayacapan,,,Tlayacapan,1
+29,17,Morelos,17029,Yautepec,,,Yautepec,1
+29,17,Morelos,17030,Yecapixtla,,,Yecapixtla,1
+30,18,Nayarit,18008,Xalisco,,,Xalisco,1
+30,18,Nayarit,18017,Tepic,,,Tepic,1
+31,19,Nuevo León,19006,Apodaca,,,Monterrey,1
+31,19,Nuevo León,19009,Cadereyta Jiménez,,,Monterrey,1
+31,19,Nuevo León,19010,El Carmen,,,Monterrey,1
+31,19,Nuevo León,19018,García,,,Monterrey,1
+31,19,Nuevo León,19019,San Pedro Garza García,,,Monterrey,1
+31,19,Nuevo León,19021,General Escobedo,,,Monterrey,1
+31,19,Nuevo León,19026,Guadalupe,,,Monterrey,1
+31,19,Nuevo León,19031,Juárez,,,Monterrey,1
+31,19,Nuevo León,19039,Monterrey,,,Monterrey,1
+31,19,Nuevo León,19045,Salinas Victoria,,,Monterrey,1
+31,19,Nuevo León,19046,San Nicolás de los Garza,,,Monterrey,1
+31,19,Nuevo León,19048,Santa Catarina,,,Monterrey,1
+31,19,Nuevo León,19049,Santiago,,,Monterrey,1
+32,20,Oaxaca,20067,Oaxaca de Juárez,,,Oaxaca,1
+32,20,Oaxaca,20083,San Agustín de las Juntas,,,Oaxaca,1
+32,20,Oaxaca,20087,San Agustín Yatareni,,,Oaxaca,1
+32,20,Oaxaca,20091,San Andrés Huayápam,,,Oaxaca,1
+32,20,Oaxaca,20107,San Antonio de la Cal,,,Oaxaca,1
+32,20,Oaxaca,20115,San Bartolo Coyotepec,,,Oaxaca,1
+32,20,Oaxaca,20157,San Jacinto Amilpas,,,Oaxaca,1
+32,20,Oaxaca,20174,Ánimas Trujano,,,Oaxaca,1
+32,20,Oaxaca,20227,San Lorenzo Cacaotepec,,,Oaxaca,1
+32,20,Oaxaca,20293,San Pablo Etla,,,Oaxaca,1
+32,20,Oaxaca,20338,Villa de Etla,,,Oaxaca,1
+32,20,Oaxaca,20350,San Sebastián Tutla,,,Oaxaca,1
+32,20,Oaxaca,20375,Santa Cruz Amilpas,,,Oaxaca,1
+32,20,Oaxaca,20385,Santa Cruz Xoxocotlán,,,Oaxaca,1
+32,20,Oaxaca,20390,Santa Lucía del Camino,,,Oaxaca,1
+32,20,Oaxaca,20399,Santa María Atzompa,,,Oaxaca,1
+32,20,Oaxaca,20403,Santa María Coyotepec,,,Oaxaca,1
+32,20,Oaxaca,20409,Santa María del Tule,,,Oaxaca,1
+32,20,Oaxaca,20519,Santo Domingo Tomaltepec,,,Oaxaca,1
+32,20,Oaxaca,20539,Soledad Etla,,,Oaxaca,1
+32,20,Oaxaca,20553,Tlalixtac de Cabrera,,,Oaxaca,1
+32,20,Oaxaca,20565,Villa de Zaachila,,,Oaxaca,1
+33,20,Oaxaca,20079,Salina Cruz,,,Tehuantepec,1
+33,20,Oaxaca,20124,San Blas Atempa,,,Tehuantepec,1
+33,20,Oaxaca,20515,Santo Domingo Tehuantepec,,,Tehuantepec,1
+34,21,Puebla,21001,Acajete,,,Puebla-Tlaxcala,1
+34,21,Puebla,21015,Amozoc,,,Puebla-Tlaxcala,1
+34,21,Puebla,21034,Coronango,,,Puebla-Tlaxcala,1
+34,21,Puebla,21041,Cuautlancingo,,,Puebla-Tlaxcala,1
+34,21,Puebla,21048,Chiautzingo,,,Puebla-Tlaxcala,1
+34,21,Puebla,21060,Domingo Arenas,,,Puebla-Tlaxcala,1
+34,21,Puebla,21074,Huejotzingo,,,Puebla-Tlaxcala,1
+34,21,Puebla,21090,Juan C. Bonilla,,,Puebla-Tlaxcala,1
+34,21,Puebla,21106,Ocoyucan,,,Puebla-Tlaxcala,1
+34,21,Puebla,21114,Puebla,,,Puebla-Tlaxcala,1
+34,21,Puebla,21119,San Andrés Cholula,,,Puebla-Tlaxcala,1
+34,21,Puebla,21122,San Felipe Teotlalcingo,,,Puebla-Tlaxcala,1
+34,21,Puebla,21125,San Gregorio Atzompa,,,Puebla-Tlaxcala,1
+34,21,Puebla,21132,San Martín Texmelucan,,,Puebla-Tlaxcala,1
+34,21,Puebla,21136,San Miguel Xoxtla,,,Puebla-Tlaxcala,1
+34,21,Puebla,21140,San Pedro Cholula,,,Puebla-Tlaxcala,1
+34,21,Puebla,21143,San Salvador el Verde,,,Puebla-Tlaxcala,1
+34,21,Puebla,21163,Tepatlaxco de Hidalgo,,,Puebla-Tlaxcala,1
+34,21,Puebla,21181,Tlaltenango,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29015,Ixtacuixtla de Mariano Matamoros,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29017,Mazatecochco de José María Morelos,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29019,Tepetitla de Lardizábal,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29022,Acuamanala de Miguel Hidalgo,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29023,Natívitas,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29025,San Pablo del Monte,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29027,Tenancingo,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29028,Teolocholco,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29029,Tepeyanco,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29032,Tetlatlahuca,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29041,Papalotla de Xicohténcatl,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29042,Xicohtzinco,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29044,Zacatelco,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29051,San Jerónimo Zacualpan,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29053,San Juan Huactzinco,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29054,San Lorenzo Axocomanitla,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29056,Santa Ana Nopalucan,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29057,Santa Apolonia Teacalco,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29058,Santa Catarina Ayometla,,,Puebla-Tlaxcala,1
+34,29,Tlaxcala,29059,Santa Cruz Quilehtla,,,Puebla-Tlaxcala,1
+35,21,Puebla,21149,Santiago Miahuatlán,,,Tehuacán,1
+35,21,Puebla,21156,Tehuacán,,,Tehuacán,1
+36,22,Querétaro,22006,Corregidora,,,Querétaro,1
+36,22,Querétaro,22008,Huimilpan,,,Querétaro,1
+36,22,Querétaro,22011,El Marqués,,,Querétaro,1
+36,22,Querétaro,22014,Querétaro,,,Querétaro,1
+37,23,Quintana Roo,23003,Isla Mujeres,,,Cancún,1
+37,23,Quintana Roo,23005,Benito Juárez,,,Cancún,1
+38,24,San Luis Potosí,24028,San Luis Potosí,,,San Luis Potosí-Soledad de Graciano Sánchez,1
+38,24,San Luis Potosí,24035,Soledad de Graciano Sánchez,,,San Luis Potosí-Soledad de Graciano Sánchez,1
+39,24,San Luis Potosí,24011,Ciudad Fernández,,,Río Verde-Cd. Fernández,1
+39,24,San Luis Potosí,24024,Rioverde,,,Río Verde-Cd. Fernández,1
+40,26,Sonora,26025,Empalme,,,Guaymas,1
+40,26,Sonora,26029,Guaymas,,,Guaymas,1
+41,27,Tabasco,27004,Centro,,,Villahermosa,1
+41,27,Tabasco,27013,Nacajuca,,,Villahermosa,1
+42,28,Tamaulipas,28003,Altamira,,,Tampico,1
+42,28,Tamaulipas,28009,Ciudad Madero,,,Tampico,1
+42,28,Tamaulipas,28038,Tampico,,,Tampico,1
+42,30,Veracruz de Ignacio de la Llave,30123,Pánuco,,,Tampico,1
+42,30,Veracruz de Ignacio de la Llave,30133,Pueblo Viejo,,,Tampico,1
+43,28,Tamaulipas,28032,Reynosa,,,Reynosa-Río Bravo,1
+43,28,Tamaulipas,28033,Río Bravo,,,Reynosa-Río Bravo,1
+44,28,Tamaulipas,28022,Matamoros,,,Matamoros,1
+45,28,Tamaulipas,28027,Nuevo Laredo,,,Nuevo Laredo,1
+46,29,Tlaxcala,29001,Amaxac de Guerrero,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29002,Apetatitlán de Antonio Carvajal,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29005,Apizaco,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29009,Cuaxomulco,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29010,Chiautempan,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29018,Contla de Juan Cuamatzi,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29024,Panotla,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29026,Santa Cruz Tlaxcala,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29031,Tetla de la Solidaridad,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29033,Tlaxcala,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29035,Tocatlán,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29036,Totolac,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29038,Tzompantepec,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29039,Xaloztoc,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29043,Yauhquemehcan,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29048,La Magdalena Tlaltelulco,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29049,San Damián Texóloc,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29050,San Francisco Tetlanohcan,,,Tlaxcala-Apizaco,1
+46,29,Tlaxcala,29060,Santa Isabel Xiloxoxtla,,,Tlaxcala-Apizaco,1
+47,30,Veracruz de Ignacio de la Llave,30011,Alvarado,,,Veracruz,1
+47,30,Veracruz de Ignacio de la Llave,30028,Boca del Río,,,Veracruz,1
+47,30,Veracruz de Ignacio de la Llave,30090,Jamapa,,,Veracruz,1
+47,30,Veracruz de Ignacio de la Llave,30105,Medellín de Bravo,,,Veracruz,1
+47,30,Veracruz de Ignacio de la Llave,30193,Veracruz,,,Veracruz,1
+48,30,Veracruz de Ignacio de la Llave,30026,Banderilla,,,Xalapa,1
+48,30,Veracruz de Ignacio de la Llave,30038,Coatepec,,,Xalapa,1
+48,30,Veracruz de Ignacio de la Llave,30065,Emiliano Zapata,,,Xalapa,1
+48,30,Veracruz de Ignacio de la Llave,30087,Xalapa,,,Xalapa,1
+48,30,Veracruz de Ignacio de la Llave,30093,Jilotepec,,,Xalapa,1
+48,30,Veracruz de Ignacio de la Llave,30136,Rafael Lucio,,,Xalapa,1
+48,30,Veracruz de Ignacio de la Llave,30182,Tlalnelhuayocan,,,Xalapa,1
+49,30,Veracruz de Ignacio de la Llave,30033,Cazones de Herrera,,,Poza Rica,1
+49,30,Veracruz de Ignacio de la Llave,30040,Coatzintla,,,Poza Rica,1
+49,30,Veracruz de Ignacio de la Llave,30124,Papantla,,,Poza Rica,1
+49,30,Veracruz de Ignacio de la Llave,30131,Poza Rica de Hidalgo,,,Poza Rica,1
+49,30,Veracruz de Ignacio de la Llave,30175,Tihuatlán,,,Poza Rica,1
+50,30,Veracruz de Ignacio de la Llave,30022,Atzacan,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30030,Camerino Z. Mendoza,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30074,Huiloapan de Cuauhtémoc,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30081,Ixhuatlancillo,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30085,Ixtaczoquitlán,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30099,Maltrata,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30101,Mariano Escobedo,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30115,Nogales,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30118,Orizaba,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30135,Rafael Delgado,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30138,Río Blanco,,,Orizaba,1
+50,30,Veracruz de Ignacio de la Llave,30185,Tlilapan,,,Orizaba,1
+51,30,Veracruz de Ignacio de la Llave,30048,Cosoleacaque,,,Minatitlán,1
+51,30,Veracruz de Ignacio de la Llave,30059,Chinameca,,,Minatitlán,1
+51,30,Veracruz de Ignacio de la Llave,30089,Jáltipan,,,Minatitlán,1
+51,30,Veracruz de Ignacio de la Llave,30108,Minatitlán,,,Minatitlán,1
+51,30,Veracruz de Ignacio de la Llave,30120,Oteapan,,,Minatitlán,1
+51,30,Veracruz de Ignacio de la Llave,30199,Zaragoza,,,Minatitlán,1
+52,30,Veracruz de Ignacio de la Llave,30039,Coatzacoalcos,,,Coatzacoalcos,1
+52,30,Veracruz de Ignacio de la Llave,30082,Ixhuatlán del Sureste,,,Coatzacoalcos,1
+52,30,Veracruz de Ignacio de la Llave,30206,Nanchital de Lázaro Cárdenas del Río,,,Coatzacoalcos,1
+53,30,Veracruz de Ignacio de la Llave,30014,Amatlán de los Reyes,,,Córdoba,1
+53,30,Veracruz de Ignacio de la Llave,30044,Córdoba,,,Córdoba,1
+53,30,Veracruz de Ignacio de la Llave,30068,Fortín,,,Córdoba,1
+53,30,Veracruz de Ignacio de la Llave,30196,Yanga,,,Córdoba,1
+54,30,Veracruz de Ignacio de la Llave,30003,Acayucan,,,Acayucan,1
+54,30,Veracruz de Ignacio de la Llave,30116,Oluta,,,Acayucan,1
+54,30,Veracruz de Ignacio de la Llave,30145,Soconusco,,,Acayucan,1
+55,31,Yucatán,31013,Conkal,,,Mérida,1
+55,31,Yucatán,31041,Kanasín,,,Mérida,1
+55,31,Yucatán,31050,Mérida,,,Mérida,1
+55,31,Yucatán,31100,Ucú,,,Mérida,1
+55,31,Yucatán,31101,Umán,,,Mérida,1
+56,32,Zacatecas,32017,Guadalupe,,,Zacatecas-Guadalupe,1
+56,32,Zacatecas,32032,Morelos,,,Zacatecas-Guadalupe,1
+56,32,Zacatecas,32056,Zacatecas,,,Zacatecas-Guadalupe,1
+57,11,Guanajuato,11007,Celaya,,,Celaya,1
+57,11,Guanajuato,11009,Comonfort,,,Celaya,1
+57,11,Guanajuato,11044,Villagrán,,,Celaya,1
+58,15,México,15006,Almoloya del Río,,,Tianguistenco,1
+58,15,México,15012,Atizapán,,,Tianguistenco,1
+58,15,México,15019,Capulhuac,,,Tianguistenco,1
+58,15,México,15043,Xalatlaco,,,Tianguistenco,1
+58,15,México,15098,Texcalyacac,,,Tianguistenco,1
+58,15,México,15101,Tianguistenco,,,Tianguistenco,1
+59,21,Puebla,21054,Chignautla,,,Teziutlán,1
+59,21,Puebla,21174,Teziutlán,,,Teziutlán,1
+60,02,Baja California,02001,Ensenada,020010001,Ensenada,Ensenada,2
+60,02,Baja California,02001,Ensenada,020010247,El Sauzal de Rodríguez,Ensenada,2
+61,03,Baja California Sur,03008,Los Cabos,030080001,San José del Cabo,San José del Cabo,2
+61,03,Baja California Sur,03008,Los Cabos,030080247,San José Viejo,San José del Cabo,2
+61,03,Baja California Sur,03008,Los Cabos,030080304,Las Veredas,San José del Cabo,2
+62,03,Baja California Sur,03008,Los Cabos,030080054,Cabo San Lucas,Cabo San Lucas,2
+62,03,Baja California Sur,03008,Los Cabos,030080753,Colonia del Sol,Cabo San Lucas,2
+62,03,Baja California Sur,03008,Los Cabos,030080952,Las Palmas,Cabo San Lucas,2
+63,04,Campeche,04002,Campeche,040020001,San Francisco de Campeche,Campeche,2
+63,04,Campeche,04002,Campeche,040020087,Lerma,Campeche,2
+64,05,Coahuila de Zaragoza,05028,Sabinas,050280003,Cloete,Nueva Rosita-Cloete,2
+64,05,Coahuila de Zaragoza,05032,San Juan de Sabinas,050320014,Nueva Rosita,Nueva Rosita-Cloete,2
+65,06,Colima,06007,Manzanillo,060070001,Manzanillo,Manzanillo,2
+65,06,Colima,06007,Manzanillo,060070021,El Colomo,Manzanillo,2
+66,07,Chiapas,07089,Tapachula,070890001,Tapachula de Córdova y Ordóñez,Tapachula de Cordova y Ordoñez,2
+66,07,Chiapas,07089,Tapachula,070890150,Raymundo Enríquez,Tapachula de Cordova y Ordoñez,2
+66,07,Chiapas,07089,Tapachula,070890991,Vida Mejor I,Tapachula de Cordova y Ordoñez,2
+66,07,Chiapas,07089,Tapachula,070891025,Los Cafetales,Tapachula de Cordova y Ordoñez,2
+67,11,Guanajuato,11005,Apaseo el Grande,110050001,Apaseo el Grande,Apaseo el Grande,2
+67,11,Guanajuato,11005,Apaseo el Grande,110050051,San Pedro Tenango el Nuevo,Apaseo el Grande,2
+68,11,Guanajuato,11015,Guanajuato,110150001,Guanajuato,Guanajuato,2
+68,11,Guanajuato,11015,Guanajuato,110150067,Marfil,Guanajuato,2
+68,11,Guanajuato,11015,Guanajuato,110150126,Yerbabuena,Guanajuato,2
+69,11,Guanajuato,11017,Irapuato,110170001,Irapuato,Irapuato,2
+69,11,Guanajuato,11017,Irapuato,110170059,Arandas,Irapuato,2
+69,11,Guanajuato,11017,Irapuato,110170359,Villas de Irapuato,Irapuato,2
+70,11,Guanajuato,11028,Salvatierra,110280001,Salvatierra,Salvatierra,2
+70,11,Guanajuato,11028,Salvatierra,110280064,Urireo,Salvatierra,2
+71,11,Guanajuato,11033,San Luis de la Paz,110330001,San Luis de la Paz,San Luis de la Paz,2
+71,11,Guanajuato,11033,San Luis de la Paz,110330110,Misión de Chichimecas,San Luis de la Paz,2
+72,12,Guerrero,12011,Atoyac de Álvarez,120110001,Atoyac de Álvarez,Atoyac de Álvarez,2
+72,12,Guerrero,12011,Atoyac de Álvarez,120110071,El Ticui,Atoyac de Álvarez,2
+73,12,Guerrero,12029,Chilpancingo de los Bravo,120290001,Chilpancingo de los Bravo,Chilpancingo de los Bravo,2
+73,12,Guerrero,12029,Chilpancingo de los Bravo,120290047,Petaquillas,Chilpancingo de los Bravo,2
+74,12,Guerrero,12050,Pungarabato,120500001,Ciudad Altamirano,Ciudad Altamirano-Riva Palacio,2
+74,16,Michoacán de Ocampo,16077,San Lucas,160770067,Vicente Riva Palacio,Ciudad Altamirano-Riva Palacio,2
+75,12,Guerrero,12057,Técpan de Galeana,120570001,Técpan de Galeana,Técpan de Galeana,2
+75,12,Guerrero,12057,Técpan de Galeana,120570086,El Súchil,Técpan de Galeana,2
+76,13,Hidalgo,13003,Actopan,130030001,Actopan,Actopan,2
+76,13,Hidalgo,13003,Actopan,130030005,El Boxtha,Actopan,2
+76,13,Hidalgo,13003,Actopan,130030014,El Huaxtho,Actopan,2
+76,13,Hidalgo,13023,Francisco I. Madero,130230012,El Rosario,Actopan,2
+76,13,Hidalgo,13054,San Salvador,130540019,San Antonio Zaragoza,Actopan,2
+77,13,Hidalgo,13028,Huejutla de Reyes,130280001,Huejutla de Reyes,Huejutla de Reyes,2
+77,13,Hidalgo,13028,Huejutla de Reyes,130280042,Chililico,Huejutla de Reyes,2
+78,13,Hidalgo,13030,Ixmiquilpan,130300001,Ixmiquilpan,Ixmiquilpan,2
+78,13,Hidalgo,13030,Ixmiquilpan,130300035,Panales,Ixmiquilpan,2
+79,13,Hidalgo,13041,Mixquiahuala de Juárez,130410001,Mixquiahuala,Mixquiahuala-Progreso,2
+79,13,Hidalgo,13050,Progreso de Obregón,130500001,Progreso,Mixquiahuala-Progreso,2
+80,13,Hidalgo,13061,Tepeapulco,130610001,Tepeapulco,Ciudad Sahágun-Tepeapulco,2
+80,13,Hidalgo,13061,Tepeapulco,130610002,Fray Bernardino de Sahagún (Ciudad Sahagún),Ciudad Sahágun-Tepeapulco,2
+81,13,Hidalgo,13063,Tepeji del Río de Ocampo,130630001,Tepeji de Ocampo,Tepeji de Ocampo,2
+81,13,Hidalgo,13063,Tepeji del Río de Ocampo,130630020,Tianguistengo (La Romera),Tepeji de Ocampo,2
+81,13,Hidalgo,13063,Tepeji del Río de Ocampo,130630021,Tinajas,Tepeji de Ocampo,2
+82,13,Hidalgo,13005,Ajacuba,130050001,Ajacuba,Tetepango-Ajacuba,2
+82,13,Hidalgo,13065,Tetepango,130650001,Tetepango,Tetepango-Ajacuba,2
+83,13,Hidalgo,13067,Tezontepec de Aldama,130670001,Tezontepec de Aldama,Tezontepec de Aldama,2
+83,13,Hidalgo,13067,Tezontepec de Aldama,130670005,Huitel,Tezontepec de Aldama,2
+83,13,Hidalgo,13067,Tezontepec de Aldama,130670006,Mangas,Tezontepec de Aldama,2
+83,13,Hidalgo,13067,Tezontepec de Aldama,130670008,Panuaya,Tezontepec de Aldama,2
+83,13,Hidalgo,13067,Tezontepec de Aldama,130670009,Presas,Tezontepec de Aldama,2
+83,13,Hidalgo,13067,Tezontepec de Aldama,130670020,La Loma,Tezontepec de Aldama,2
+84,14,Jalisco,14018,La Barca,140180001,La Barca,La Barca-Briseñas,2
+84,16,Michoacán de Ocampo,16011,Briseñas,160110001,Briseñas de Matamoros,La Barca-Briseñas,2
+84,16,Michoacán de Ocampo,16011,Briseñas,160110004,Paso de Hidalgo (Paso de Álamos),La Barca-Briseñas,2
+85,14,Jalisco,14030,Chapala,140300002,Ajijic,Ajijic,2
+85,14,Jalisco,14030,Chapala,140300005,San Antonio Tlayacapan,Ajijic,2
+86,14,Jalisco,14050,Jocotepec,140500001,Jocotepec,Jocotepec,2
+86,14,Jalisco,14050,Jocotepec,140500002,Chantepec (El Chante),Jocotepec,2
+87,15,México,15014,Atlacomulco,150140001,Atlacomulco,Atlacomulco de Fabela,2
+87,15,México,15014,Atlacomulco,150140057,Tecoac (Santa María Nativitas),Atlacomulco de Fabela,2
+88,15,México,15042,Ixtlahuaca,150420002,La Concepción los Baños,Los Baños,2
+88,15,México,15042,Ixtlahuaca,150420017,San Cristóbal los Baños,Los Baños,2
+88,15,México,15042,Ixtlahuaca,150420030,San Pedro los Baños,Los Baños,2
+89,15,México,15042,Ixtlahuaca,150420001,Ixtlahuaca de Rayón,Santo Domingo de Guzmán (antes Ixtlahuaca),2
+89,15,México,15042,Ixtlahuaca,150420007,Guadalupe Cachi,Santo Domingo de Guzmán (antes Ixtlahuaca),2
+89,15,México,15042,Ixtlahuaca,150420024,San Juan de las Manzanas,Santo Domingo de Guzmán (antes Ixtlahuaca),2
+89,15,México,15042,Ixtlahuaca,150420029,Barrio de San Pedro la Cabecera,Santo Domingo de Guzmán (antes Ixtlahuaca),2
+89,15,México,15042,Ixtlahuaca,150420034,Emiliano Zapata (Santo Domingo),Santo Domingo de Guzmán (antes Ixtlahuaca),2
+89,15,México,15042,Ixtlahuaca,150420035,Santo Domingo de Guzmán,Santo Domingo de Guzmán (antes Ixtlahuaca),2
+90,15,México,15074,San Felipe del Progreso,150740008,Calvario del Carmen,San Nicolás Guadalupe,2
+90,15,México,15074,San Felipe del Progreso,150740097,San Miguel la Labor,San Nicolás Guadalupe,2
+90,15,México,15074,San Felipe del Progreso,150740098,San Nicolás Guadalupe,San Nicolás Guadalupe,2
+91,15,México,15085,Temascalcingo,150850001,Temascalcingo de José María Velasco,Temascalcingo de José María Velasco,2
+91,15,México,15085,Temascalcingo,150850014,La Magdalena,Temascalcingo de José María Velasco,2
+92,15,México,15088,Tenancingo,150880001,Tenancingo de Degollado,Tenancingo de Degollado,2
+92,15,México,15088,Tenancingo,150880017,El Salitre,Tenancingo de Degollado,2
+92,15,México,15088,Tenancingo,150880073,San José el Cuartel,Tenancingo de Degollado,2
+93,15,México,15090,Tenango del Valle,150900001,Tenango de Arista,Tenango de Arista,2
+93,15,México,15090,Tenango del Valle,150900039,Santiaguito Cuaxustenco,Tenango de Arista,2
+94,16,Michoacán de Ocampo,16052,Lázaro Cárdenas,160520001,Ciudad Lázaro Cárdenas,Ciudad Lázaro Cárdenas,2
+94,16,Michoacán de Ocampo,16052,Lázaro Cárdenas,160520077,Las Guacamayas,Ciudad Lázaro Cárdenas,2
+94,16,Michoacán de Ocampo,16052,Lázaro Cárdenas,160520137,La Orilla,Ciudad Lázaro Cárdenas,2
+95,16,Michoacán de Ocampo,16102,Uruapan,161020001,Uruapan,Uruapan,2
+95,16,Michoacán de Ocampo,16102,Uruapan,161020061,Caltzontzin,Uruapan,2
+95,16,Michoacán de Ocampo,16102,Uruapan,161020110,Santa Rosa (Santa Bárbara),Uruapan,2
+95,16,Michoacán de Ocampo,16102,Uruapan,161020119,Toreo Bajo (El Toreo Bajo),Uruapan,2
+96,14,Jalisco,14016,Ayotlán,140160072,La Ribera,Yurécuaro-La Ribera,2
+96,16,Michoacán de Ocampo,16106,Yurécuaro,161060001,Yurécuaro,Yurécuaro-La Ribera,2
+97,16,Michoacán de Ocampo,16110,Zinapécuaro,161100001,Zinapécuaro de Figueroa,Zinapécuaro de Figueroa,2
+97,16,Michoacán de Ocampo,16110,Zinapécuaro,161100006,Bocaneo (San Pedro),Zinapécuaro de Figueroa,2
+98,16,Michoacán de Ocampo,16112,Zitácuaro,161120001,Heróica Zitácuaro,Zitácuaro,2
+98,16,Michoacán de Ocampo,16112,Zitácuaro,161120082,Rincón de Nicolás Romero (Cedros Tercera Manzana),Zitácuaro,2
+99,17,Morelos,17012,Jojutla,170120001,Jojutla,Jojutla-Tlaquiltenango,2
+99,17,Morelos,17025,Tlaquiltenango,170250001,Tlaquiltenango,Jojutla-Tlaquiltenango,2
+100,18,Nayarit,18010,Rosamorada,180100035,San Vicente,Tuxpan,2
+100,18,Nayarit,18018,Tuxpan,180180001,Tuxpan,Tuxpan,2
+101,20,Oaxaca,20057,Matías Romero Avendaño,200570001,Matías Romero Avendaño,Matías Romero Avendaño,2
+101,20,Oaxaca,20427,Santa María Petapa,204270010,Rincón Viejo,Matías Romero Avendaño,2
+102,20,Oaxaca,20068,Ocotlán de Morelos,200680001,Ocotlán de Morelos,Ocotlán de Morelos,2
+102,20,Oaxaca,20103,San Antonino Castillo Velasco,201030001,San Antonino Castillo Velasco,Ocotlán de Morelos,2
+103,20,Oaxaca,20150,San Francisco Telixtlahuaca,201500001,San Francisco Telixtlahuaca,San Francisco Telixtlahuaca-San Pablo Huitzo,2
+103,20,Oaxaca,20294,San Pablo Huitzo,202940001,San Pablo Huitzo,San Francisco Telixtlahuaca-San Pablo Huitzo,2
+104,20,Oaxaca,20184,San Juan Bautista Tuxtepec,201840001,San Juan Bautista Tuxtepec,San Juan Bautista Tuxtepec,2
+104,20,Oaxaca,20184,San Juan Bautista Tuxtepec,201840050,San Bartolo,San Juan Bautista Tuxtepec,2
+105,20,Oaxaca,20318,San Pedro Mixtepec,203180009,Puerto Escondido,Puerto Escondido-Zicatela,2
+105,20,Oaxaca,20401,Santa María Colotepec,204010050,Brisas de Zicatela,Puerto Escondido-Zicatela,2
+106,21,Puebla,21004,Acatzingo,210040001,Acatzingo de Hidalgo,Acatzingo de Hidalgo,2
+106,21,Puebla,21004,Acatzingo,210040002,Actipan de Morelos (Santa María Actipan),Acatzingo de Hidalgo,2
+106,21,Puebla,21038,Cuapiaxtla de Madero,210380001,Cuapiaxtla de Madero,Acatzingo de Hidalgo,2
+106,21,Puebla,21118,Los Reyes de Juárez,211180001,Los Reyes de Juárez,Acatzingo de Hidalgo,2
+106,21,Puebla,21118,Los Reyes de Juárez,211180007,Santiago Acozac,Acatzingo de Hidalgo,2
+107,21,Puebla,21010,Ajalpan,210100001,Ciudad de Ajalpan,Ciudad de Ajalpan,2
+107,21,Puebla,21013,Altepexi,210130001,Altepexi,Ciudad de Ajalpan,2
+108,21,Puebla,21017,Atempan,210170001,Atempan,Atempan,2
+108,21,Puebla,21173,Teteles de Avila Castillo,211730001,Teteles de Avila Castillo,Atempan,2
+108,21,Puebla,21204,Yaonáhuac,212040001,Yaonáhuac,Atempan,2
+109,21,Puebla,21051,Chietla,210510001,Chietla,Atencingo-Chietla,2
+109,21,Puebla,21051,Chietla,210510003,Atencingo,Atencingo-Chietla,2
+110,21,Puebla,21053,Chignahuapan,210530001,Ciudad de Chignahuapan,Ciudad de Chignahuapan,2
+110,21,Puebla,21053,Chignahuapan,210530092,Ixtlahuaca Barrio,Ciudad de Chignahuapan,2
+111,21,Puebla,21071,Huauchinango,210710001,Huauchinango,Huauchinango,2
+111,21,Puebla,21071,Huauchinango,210710009,Cuacuila,Huauchinango,2
+112,21,Puebla,21071,Huauchinango,210710008,Las Colonias de Hidalgo,Nuevo Necaxa-Tenango,2
+112,21,Puebla,21071,Huauchinango,210710027,Tenango de las Flores,Nuevo Necaxa-Tenango,2
+112,21,Puebla,21091,Juan Galindo,210910001,Nuevo Necaxa,Nuevo Necaxa-Tenango,2
+112,21,Puebla,21183,Tlaola,211830022,Xaltepuxtla,Nuevo Necaxa-Tenango,2
+113,21,Puebla,21104,Nopalucan,211040001,Nopalucan de la Granja,Nopalucan de la Granja-Ciudad de Rafael Lara Grajales,2
+113,21,Puebla,21117,Rafael Lara Grajales,211170001,Ciudad de Rafael Lara Grajales,Nopalucan de la Granja-Ciudad de Rafael Lara Grajales,2
+114,21,Puebla,21110,Palmar de Bravo,211100011,Jesús Nazareno,Palmarito Tochapan,2
+114,21,Puebla,21110,Palmar de Bravo,211100023,San Miguel Xaltepec,Palmarito Tochapan,2
+114,21,Puebla,21115,Quecholac,211150009,Palmarito Tochapan,Palmarito Tochapan,2
+114,21,Puebla,21115,Quecholac,211150018,San José Tuzuapan,Palmarito Tochapan,2
+115,21,Puebla,21154,Tecamachalco,211540001,Tecamachalco,Tecamachalco,2
+115,21,Puebla,21154,Tecamachalco,211540021,San Mateo Tlaixpan,Tecamachalco,2
+116,21,Puebla,21164,Tepeaca,211640001,Tepeaca,Tepeaca,2
+116,21,Puebla,21164,Tepeaca,211640020,San Pablo Actipan,Tepeaca,2
+117,21,Puebla,21207,Zacapoaxtla,212070001,Zacapoaxtla,Zacapoaxtla,2
+117,21,Puebla,21207,Zacapoaxtla,212070005,Comaltepec,Zacapoaxtla,2
+117,21,Puebla,21207,Zacapoaxtla,212070021,Xalacapan,Zacapoaxtla,2
+118,21,Puebla,21208,Zacatlán,212080001,Zacatlán,Zacatlán,2
+118,21,Puebla,21208,Zacatlán,212080004,Atzingo (La Cumbre),Zacatlán,2
+118,21,Puebla,21208,Zacatlán,212080015,Jicolapa,Zacatlán,2
+119,23,Quintana Roo,23004,Othón P. Blanco,230040001,Chetumal,Chetumal,2
+119,23,Quintana Roo,23004,Othón P. Blanco,230040016,Calderitas,Chetumal,2
+120,25,Sinaloa,25001,Ahome,250010136,El Estero (Juan José Ríos),Juan José Ríos,2
+120,25,Sinaloa,25011,Guasave,250110138,Juan José Ríos,Juan José Ríos,2
+121,26,Sonora,26018,Cajeme,260180001,Ciudad Obregón,Ciudad Obregón,2
+121,26,Sonora,26018,Cajeme,260180364,Providencia,Ciudad Obregón,2
+122,26,Sonora,26018,Cajeme,260180284,Cócorit,Esperanza,2
+122,26,Sonora,26018,Cajeme,260180311,Esperanza,Esperanza,2
+123,27,Tabasco,27002,Cárdenas,270020001,Cárdenas,Cárdenas,2
+123,27,Tabasco,27002,Cárdenas,270020051,Melchor Ocampo,Cárdenas,2
+124,27,Tabasco,27005,Comalcalco,270050001,Comalcalco,Comalcalco,2
+124,27,Tabasco,27005,Comalcalco,270050058,Reyes Hernández 2da. Sección,Comalcalco,2
+125,27,Tabasco,27012,Macuspana,270120001,Macuspana,Macuspana,2
+125,27,Tabasco,27012,Macuspana,270120016,Belén,Macuspana,2
+126,27,Tabasco,27014,Paraíso,270140001,Paraíso,Paraíso,2
+126,27,Tabasco,27014,Paraíso,270140027,Quintín Arauz,Paraíso,2
+127,29,Tlaxcala,29013,Huamantla,290130001,Huamantla,Huamantla,2
+127,29,Tlaxcala,29013,Huamantla,290130016,Ignacio Zaragoza,Huamantla,2
+128,30,Veracruz de Ignacio de la Llave,30013,Naranjos Amatlán,300130001,Naranjos,Naranjos,2
+128,30,Veracruz de Ignacio de la Llave,30060,Chinampa de Gorostiza,300600007,Colonia las Flores,Naranjos,2
+129,30,Veracruz de Ignacio de la Llave,30016,La Antigua,300160001,José Cardel,José Cardel,2
+129,30,Veracruz de Ignacio de la Llave,30134,Puente Nacional,301340003,Cabezas,José Cardel,2
+130,30,Veracruz de Ignacio de la Llave,30045,Cosamaloapan de Carpio,300450001,Cosamaloapan,Cosamaloapan-Carlos A. Carrillo,2
+130,30,Veracruz de Ignacio de la Llave,30208,Carlos A. Carrillo,302080001,Carlos A. Carrillo,Cosamaloapan-Carlos A. Carrillo,2
+131,21,Puebla,21199,Xiutetelco,211990001,San Juan Xiutetelco,Jalacingo-San Juan Xiutetelco,2
+131,21,Puebla,21199,Xiutetelco,211990009,San Francisco,Jalacingo-San Juan Xiutetelco,2
+131,21,Puebla,21199,Xiutetelco,211990016,Xaltipan,Jalacingo-San Juan Xiutetelco,2
+131,30,Veracruz de Ignacio de la Llave,30086,Jalacingo,300860001,Jalacingo,Jalacingo-San Juan Xiutetelco,2
+132,30,Veracruz de Ignacio de la Llave,30023,Atzalan,300230250,Colonias Pedernales,Martínez de la Torre,2
+132,30,Veracruz de Ignacio de la Llave,30102,Martínez de la Torre,301020001,Martínez de la Torre,Martínez de la Torre,2
+132,30,Veracruz de Ignacio de la Llave,30102,Martínez de la Torre,301020030,Independencia,Martínez de la Torre,2
+133,30,Veracruz de Ignacio de la Llave,30160,Álamo Temapache,301600001,Álamo,Álamo,2
+133,30,Veracruz de Ignacio de la Llave,30160,Álamo Temapache,301600041,Chapopote Núñez,Álamo,2
+133,30,Veracruz de Ignacio de la Llave,30160,Álamo Temapache,301600052,Estero del ïdolo,Álamo,2
+134,30,Veracruz de Ignacio de la Llave,30189,Tuxpan,301890001,Túxpam de Rodríguez Cano,Túxpam de Rodríguez Cano,2
+134,30,Veracruz de Ignacio de la Llave,30189,Tuxpan,301890005,Alto Lucero,Túxpam de Rodríguez Cano,2
+134,30,Veracruz de Ignacio de la Llave,30189,Tuxpan,301890083,Santiago de la Peña,Túxpam de Rodríguez Cano,2
+135,30,Veracruz de Ignacio de la Llave,30204,Agua Dulce,302040001,Agua Dulce,Agua Dulce,2
+135,30,Veracruz de Ignacio de la Llave,30204,Agua Dulce,302040017,El Muelle (Gavilán Norte),Agua Dulce,2
+136,31,Yucatán,31059,Progreso,310590001,Progreso,Progreso,2
+136,31,Yucatán,31059,Progreso,310590003,Chelem,Progreso,2
+136,31,Yucatán,31059,Progreso,310590004,Chicxulub (Chicxulub Puerto),Progreso,2
+136,31,Yucatán,31059,Progreso,310590005,Chuburná,Progreso,2
+137,32,Zacatecas,32010,Fresnillo,320100001,Fresnillo,Fresnillo,2
+137,32,Zacatecas,32010,Fresnillo,320100165,Plateros,Fresnillo,2
+138,01,Aguascalientes,01003,Calvillo,010030001,Calvillo,Calvillo,3
+139,01,Aguascalientes,01006,Pabellón de Arteaga,010060001,Pabellón de Arteaga,Pabellón de Arteaga,3
+140,01,Aguascalientes,01007,Rincón de Romos,010070001,Rincón de Romos,Rincón de Romos,3
+141,02,Baja California,02001,Ensenada,020010133,Lázaro Cárdenas,Lázaro Cárdenas,3
+142,02,Baja California,02001,Ensenada,020010139,Rodolfo Sánchez Taboada (Maneadero),Rodolfo Sánchez Taboada (Maneadero),3
+143,03,Baja California Sur,03001,Comondú,030010001,Ciudad Constitución,Ciudad Constitución,3
+144,03,Baja California Sur,03003,La Paz,030030001,La Paz,La Paz,3
+145,04,Campeche,04003,Carmen,040030001,Ciudad del Carmen,Ciudad del Carmen,3
+146,04,Campeche,04004,Champotón,040040001,Champotón,Champotón,3
+147,04,Campeche,04009,Escárcega,040090001,Escárcega,Escárcega,3
+148,05,Coahuila de Zaragoza,05002,Acuña,050020001,Ciudad Acuña,Ciudad Acuña,3
+149,05,Coahuila de Zaragoza,05003,Allende,050030001,Allende,Allende,3
+150,05,Coahuila de Zaragoza,05009,Francisco I. Madero,050090001,Francisco I. Madero (Chávez),Francisco I. Madero (Chávez),3
+151,05,Coahuila de Zaragoza,05020,Múzquiz,050200001,Ciudad Melchor Múzquiz,Ciudad Melchor Múzquiz,3
+152,05,Coahuila de Zaragoza,05020,Múzquiz,050200093,Palaú,Palaú,3
+153,05,Coahuila de Zaragoza,05024,Parras,050240001,Parras de la Fuente,Parras de la Fuente,3
+154,05,Coahuila de Zaragoza,05028,Sabinas,050280001,Sabinas,Sabinas,3
+155,05,Coahuila de Zaragoza,05031,San Buenaventura,050310001,San Buenaventura,San Buenaventura,3
+156,05,Coahuila de Zaragoza,05033,San Pedro,050330001,San Pedro,San Pedro,3
+157,07,Chiapas,07009,Arriaga,070090001,Arriaga,Arriaga,3
+158,07,Chiapas,07015,Cacahoatán,070150001,Cacahoatán,Cacahoatán,3
+159,07,Chiapas,07017,Cintalapa,070170001,Cintalapa de Figueroa,Cintalapa de Figueroa,3
+160,07,Chiapas,07019,Comitán de Domínguez,070190001,Comitán de Domínguez,Comitán de Domínguez,3
+161,07,Chiapas,07034,Frontera Comalapa,070340001,Frontera Comalapa,Frontera Comalapa,3
+162,07,Chiapas,07040,Huixtla,070400001,Huixtla,Huixtla,3
+163,07,Chiapas,07051,Mapastepec,070510001,Mapastepec,Mapastepec,3
+164,07,Chiapas,07052,Las Margaritas,070520001,Las Margaritas,Las Margaritas,3
+165,07,Chiapas,07057,Motozintla,070570001,Motozintla de Mendoza,Motozintla de Mendoza,3
+166,07,Chiapas,07059,Ocosingo,070590001,Ocosingo,Ocosingo,3
+167,07,Chiapas,07061,Ocozocoautla de Espinosa,070610001,Ocozocoautla de Espinosa,Ocozocoautla de Espinosa,3
+168,07,Chiapas,07065,Palenque,070650001,Palenque,Palenque,3
+169,07,Chiapas,07069,Pijijiapan,070690001,Pijijiapan,Pijijiapan,3
+170,07,Chiapas,07074,Reforma,070740001,Reforma,Reforma,3
+171,07,Chiapas,07075,Las Rosas,070750001,Las Rosas,Las Rosas,3
+172,07,Chiapas,07078,San Cristóbal de las Casas,070780001,San Cristóbal de las Casas,San Cristóbal de las Casas,3
+173,07,Chiapas,07086,Suchiapa,070860001,Suchiapa,Suchiapa,3
+174,07,Chiapas,07094,Teopisca,070940001,Teopisca,Teopisca,3
+175,07,Chiapas,07097,Tonalá,070970001,Tonalá,Tonalá,3
+176,07,Chiapas,07106,Venustiano Carranza,071060001,Venustiano Carranza,Venustiano Carranza,3
+177,07,Chiapas,07108,Villaflores,071080001,Villaflores,Villaflores,3
+178,07,Chiapas,07109,Yajalón,071090001,Yajalón,Yajalón,3
+179,08,Chihuahua,08011,Camargo,080110001,Santa Rosalía de Camargo,Santa Rosalía de Camargo,3
+180,08,Chihuahua,08017,Cuauhtémoc,080170001,Cuauhtémoc,Cuauhtémoc,3
+181,08,Chihuahua,08021,Delicias,080210001,Delicias,Delicias,3
+182,08,Chihuahua,08032,Hidalgo del Parral,080320001,Hidalgo del Parral,Hidalgo del Parral,3
+183,08,Chihuahua,08036,Jiménez,080360001,José Mariano Jiménez,José Mariano Jiménez,3
+184,08,Chihuahua,08040,Madera,080400001,Madera,Madera,3
+185,08,Chihuahua,08045,Meoqui,080450001,Pedro Meoqui,Pedro Meoqui,3
+186,08,Chihuahua,08050,Nuevo Casas Grandes,080500001,Nuevo Casas Grandes,Nuevo Casas Grandes,3
+187,08,Chihuahua,08052,Ojinaga,080520001,Manuel Ojinaga,Manuel Ojinaga,3
+188,10,Durango,10005,Durango,100050001,Victoria de Durango,Victoria de Durango,3
+189,10,Durango,10008,Guadalupe Victoria,100080001,Guadalupe Victoria,Guadalupe Victoria,3
+190,10,Durango,10023,Pueblo Nuevo,100230001,El Salto,El Salto,3
+191,10,Durango,10032,Santiago Papasquiaro,100320001,Santiago Papasquiaro,Santiago Papasquiaro,3
+192,10,Durango,10038,Vicente Guerrero,100380001,Vicente Guerrero,Vicente Guerrero,3
+193,11,Guanajuato,11001,Abasolo,110010001,Abasolo,Abasolo,3
+194,11,Guanajuato,11002,Acámbaro,110020001,Acámbaro,Acámbaro,3
+195,11,Guanajuato,11003,San Miguel de Allende,110030001,San Miguel de Allende,San Miguel de Allende,3
+196,11,Guanajuato,11004,Apaseo el Alto,110040001,Apaseo El Alto,Apaseo El Alto,3
+197,11,Guanajuato,11011,Cortazar,110110001,Cortazar,Cortazar,3
+198,11,Guanajuato,11014,Dolores Hidalgo Cuna de la Independencia Nacional,110140001,Dolores Hidalgo Cuna de la Independencia,Dolores Hidalgo Cuna de la Independencia,3
+199,11,Guanajuato,11018,Jaral del Progreso,110180001,Jaral del Progreso,Jaral del Progreso,3
+200,11,Guanajuato,11026,Romita,110260001,Romita,Romita,3
+201,11,Guanajuato,11027,Salamanca,110270001,Salamanca,Salamanca,3
+202,11,Guanajuato,11030,San Felipe,110300001,San Felipe,San Felipe,3
+203,11,Guanajuato,11032,San José Iturbide,110320001,San José Iturbide,San José Iturbide,3
+204,11,Guanajuato,11035,Santa Cruz de Juventino Rosas,110350001,Juventino Rosas,Juventino Rosas,3
+205,11,Guanajuato,11042,Valle de Santiago,110420001,Valle de Santiago,Valle de Santiago,3
+206,11,Guanajuato,11046,Yuriria,110460001,Yuriria,Yuriria,3
+207,12,Guerrero,12007,Arcelia,120070001,Arcelia,Arcelia,3
+208,12,Guerrero,12012,Ayutla de los Libres,120120001,Ayutla de los Libres,Ayutla de los Libres,3
+209,12,Guerrero,12028,Chilapa de Álvarez,120280001,Chilapa de Álvarez,Chilapa de Álvarez,3
+210,12,Guerrero,12034,Huitzuco de los Figueroa,120340001,Ciudad de Huitzuco,Ciudad de Huitzuco,3
+211,12,Guerrero,12035,Iguala de la Independencia,120350001,Iguala de la Independencia,Iguala de la Independencia,3
+212,12,Guerrero,12038,Zihuatanejo de Azueta,120380001,Zihuatanejo,Zihuatanejo,3
+213,12,Guerrero,12046,Ometepec,120460001,Ometepec,Ometepec,3
+214,12,Guerrero,12048,Petatlán,120480001,Petatlán,Petatlán,3
+215,12,Guerrero,12055,Taxco de Alarcón,120550001,Taxco de Alarcón,Taxco de Alarcón,3
+216,12,Guerrero,12058,Teloloapan,120580001,Teloloapan,Teloloapan,3
+217,12,Guerrero,12061,Tixtla de Guerrero,120610001,Tixtla de Guerrero,Tixtla de Guerrero,3
+218,12,Guerrero,12066,Tlapa de Comonfort,120660001,Tlapa de Comonfort,Tlapa de Comonfort,3
+219,12,Guerrero,12075,Eduardo Neri,120750001,Zumpango Del Río,Zumpango Del Río,3
+220,13,Hidalgo,13008,Apan,130080001,Apan,Apan,3
+221,13,Hidalgo,13081,Zacualtipán de Ángeles,130810001,Zacualtipán,Zacualtipán,3
+222,14,Jalisco,14003,Ahualulco de Mercado,140030001,Ahualulco de Mercado,Ahualulco de Mercado,3
+223,14,Jalisco,14006,Ameca,140060001,Ameca,Ameca,3
+224,14,Jalisco,14008,Arandas,140080001,Arandas,Arandas,3
+225,14,Jalisco,14013,Atotonilco el Alto,140130001,Atotonilco el Alto,Atotonilco el Alto,3
+226,14,Jalisco,14015,Autlán de Navarro,140150001,Autlán de Navarro,Autlán de Navarro,3
+227,14,Jalisco,14022,Cihuatlán,140220001,Cihuatlán,Cihuatlán,3
+228,14,Jalisco,14023,Zapotlán el Grande,140230001,Ciudad Guzmán,Ciudad Guzmán,3
+229,14,Jalisco,14030,Chapala,140300001,Chapala,Chapala,3
+230,14,Jalisco,14035,Encarnación de Díaz,140350001,Encarnación de Díaz,Encarnación de Díaz,3
+231,14,Jalisco,14037,El Grullo,140370001,El Grullo,El Grullo,3
+232,14,Jalisco,14046,Jalostotitlán,140460001,Jalostotitlán,Jalostotitlán,3
+233,14,Jalisco,14047,Jamay,140470001,Jamay,Jamay,3
+234,14,Jalisco,14053,Lagos de Moreno,140530001,Lagos de Moreno,Lagos de Moreno,3
+235,14,Jalisco,14055,Magdalena,140550001,Magdalena,Magdalena,3
+236,14,Jalisco,14073,San Juan de los Lagos,140730001,San Juan de los Lagos,San Juan de los Lagos,3
+237,14,Jalisco,14078,San Miguel el Alto,140780001,San Miguel el Alto,San Miguel el Alto,3
+238,14,Jalisco,14082,Sayula,140820001,Sayula,Sayula,3
+239,14,Jalisco,14083,Tala,140830001,Tala,Tala,3
+240,14,Jalisco,14085,Tamazula de Gordiano,140850001,Tamazula de Gordiano,Tamazula de Gordiano,3
+241,14,Jalisco,14091,Teocaltiche,140910001,Teocaltiche,Teocaltiche,3
+242,14,Jalisco,14093,Tepatitlán de Morelos,140930001,Tepatitlán de Morelos,Tepatitlán de Morelos,3
+243,14,Jalisco,14094,Tequila,140940001,Tequila,Tequila,3
+244,14,Jalisco,14108,Tuxpan,141080001,Tuxpan,Tuxpan,3
+245,14,Jalisco,14116,Villa Hidalgo,141160001,Villa Hidalgo,Villa Hidalgo,3
+246,14,Jalisco,14119,Zacoalco de Torres,141190001,Zacoalco de Torres,Zacoalco de Torres,3
+247,14,Jalisco,14121,Zapotiltic,141210001,Zapotiltic,Zapotiltic,3
+248,14,Jalisco,14124,Zapotlanejo,141240001,Zapotlanejo,Zapotlanejo,3
+249,15,México,15040,Ixtapan de la Sal,150400001,Ixtapan de la Sal,Ixtapan de la Sal,3
+250,15,México,15082,Tejupilco,150820001,Tejupilco de Hidalgo,Tejupilco de Hidalgo,3
+251,15,México,15110,Valle de Bravo,151100001,Valle de Bravo,Valle de Bravo,3
+252,16,Michoacán de Ocampo,16006,Apatzingán,160060001,Apatzingán de la Constitución,Apatzingán de la Constitución,3
+253,16,Michoacán de Ocampo,16009,Ario,160090001,Ario de Rosales,Ario de Rosales,3
+254,16,Michoacán de Ocampo,16034,Hidalgo,160340001,Ciudad Hidalgo,Ciudad Hidalgo,3
+255,16,Michoacán de Ocampo,16038,Huetamo,160380001,Huetamo de Núñez,Huetamo de Núñez,3
+256,16,Michoacán de Ocampo,16045,Jiquilpan,160450001,Jiquilpan de Juárez,Jiquilpan de Juárez,3
+257,16,Michoacán de Ocampo,16050,Maravatío,160500001,Maravatío de Ocampo,Maravatío de Ocampo,3
+258,16,Michoacán de Ocampo,16055,Múgica,160550001,Nueva Italia de Ruiz,Nueva Italia de Ruiz,3
+259,16,Michoacán de Ocampo,16065,Paracho,160650001,Paracho de Verduzco,Paracho de Verduzco,3
+260,16,Michoacán de Ocampo,16066,Pátzcuaro,160660001,Pátzcuaro,Pátzcuaro,3
+261,16,Michoacán de Ocampo,16068,Peribán,160680001,Peribán de Ramos,Peribán de Ramos,3
+262,16,Michoacán de Ocampo,16071,Puruándiro,160710001,Puruándiro,Puruándiro,3
+263,16,Michoacán de Ocampo,16075,Los Reyes,160750001,Los Reyes de Salgado,Los Reyes de Salgado,3
+264,16,Michoacán de Ocampo,16076,Sahuayo,160760001,Sahuayo de Morelos,Sahuayo de Morelos,3
+265,16,Michoacán de Ocampo,16082,Tacámbaro,160820001,Tacámbaro de Codallos,Tacámbaro de Codallos,3
+266,16,Michoacán de Ocampo,16085,Tangancícuaro,160850001,Tangancícuaro de Arista,Tangancícuaro de Arista,3
+267,16,Michoacán de Ocampo,16089,Tepalcatepec,160890001,Tepalcatepec,Tepalcatepec,3
+268,16,Michoacán de Ocampo,16107,Zacapu,161070001,Zacapu,Zacapu,3
+269,17,Morelos,17003,Axochiapan,170030001,Axochiapan,Axochiapan,3
+270,17,Morelos,17017,Puente de Ixtla,170170001,Puente de Ixtla,Puente de Ixtla,3
+271,17,Morelos,17017,Puente de Ixtla,170170009,Xoxocotla,Xoxocotla,3
+272,17,Morelos,17031,Zacatepec,170310001,Zacatepec de Hidalgo,Zacatepec de Hidalgo,3
+273,18,Nayarit,18001,Acaponeta,180010001,Acaponeta,Acaponeta,3
+274,18,Nayarit,18004,Compostela,180040001,Compostela,Compostela,3
+275,18,Nayarit,18006,Ixtlán del Río,180060001,Ixtlán del Río,Ixtlán del Río,3
+276,18,Nayarit,18015,Santiago Ixcuintla,180150001,Santiago Ixcuintla,Santiago Ixcuintla,3
+277,19,Nuevo León,19004,Allende,190040001,Ciudad de Allende,Ciudad de Allende,3
+278,19,Nuevo León,19005,Anáhuac,190050001,Anáhuac,Anáhuac,3
+279,19,Nuevo León,19012,Ciénega de Flores,190120001,Ciénega de Flores,Ciénega de Flores,3
+280,19,Nuevo León,19025,General Zuazua,190250284,Fraccionamiento Real Palmas,Fraccionamiento Real Palmas,3
+281,19,Nuevo León,19033,Linares,190330001,Linares,Linares,3
+282,19,Nuevo León,19038,Montemorelos,190380001,Montemorelos,Montemorelos,3
+283,19,Nuevo León,19044,Sabinas Hidalgo,190440001,Ciudad Sabinas Hidalgo,Ciudad Sabinas Hidalgo,3
+284,19,Nuevo León,19047,Hidalgo,190470001,Hidalgo,Hidalgo,3
+285,20,Oaxaca,20014,Ciudad Ixtepec,200140001,Ciudad Ixtepec,Ciudad Ixtepec,3
+286,20,Oaxaca,20039,Heroica Ciudad de Huajuapan de León,200390001,Heroica Ciudad de Huajuapan de León,Heroica Ciudad de Huajuapan de León,3
+287,20,Oaxaca,20043,Heroica Ciudad de Juchitán de Zaragoza,200430001,Heroica Ciudad de Juchitán de Zaragoza,Heroica Ciudad de Juchitán de Zaragoza,3
+288,20,Oaxaca,20044,Loma Bonita,200440001,Loma Bonita,Loma Bonita,3
+289,20,Oaxaca,20059,Miahuatlán de Porfirio Díaz,200590001,Miahuatlán de Porfirio Díaz,Miahuatlán de Porfirio Díaz,3
+290,20,Oaxaca,20397,Heroica Ciudad de Tlaxiaco,203970001,Heroica Ciudad de Tlaxiaco,Heroica Ciudad de Tlaxiaco,3
+291,20,Oaxaca,20413,Santa María Huatulco,204130078,Crucecita,Crucecita,3
+292,20,Oaxaca,20482,Santiago Pinotepa Nacional,204820001,Santiago Pinotepa Nacional,Santiago Pinotepa Nacional,3
+293,21,Puebla,21003,Acatlán,210030001,Acatlán de Osorio,Acatlán de Osorio,3
+294,21,Puebla,21019,Atlixco,210190001,Atlixco,Atlixco,3
+295,21,Puebla,21045,Chalchicomula de Sesma,210450001,Ciudad Serdán,Ciudad Serdán,3
+296,21,Puebla,21085,Izúcar de Matamoros,210850001,Izúcar de Matamoros,Izúcar de Matamoros,3
+297,21,Puebla,21094,Libres,210940001,Ciudad de Libres,Ciudad de Libres,3
+298,21,Puebla,21142,San Salvador el Seco,211420001,San Salvador el Seco,San Salvador el Seco,3
+299,21,Puebla,21197,Xicotepec,211970001,Xicotepec de Juárez,Xicotepec de Juárez,3
+300,21,Puebla,21214,Zinacatepec,212140001,San Sebastián Zinacatepec,San Sebastián Zinacatepec,3
+301,22,Querétaro,22016,San Juan del Río,220160001,San Juan del Río,San Juan del Río,3
+302,22,Querétaro,22017,Tequisquiapan,220170001,Tequisquiapan,Tequisquiapan,3
+303,23,Quintana Roo,23001,Cozumel,230010001,Cozumel,Cozumel,3
+304,23,Quintana Roo,23002,Felipe Carrillo Puerto,230020001,Felipe Carrillo Puerto,Felipe Carrillo Puerto,3
+305,23,Quintana Roo,23008,Solidaridad,230080001,Playa del Carmen,Playa del Carmen,3
+306,23,Quintana Roo,23009,Tulum,230090001,Tulum,Tulum,3
+307,24,San Luis Potosí,24005,Cárdenas,240050001,Cárdenas,Cárdenas,3
+308,24,San Luis Potosí,24013,Ciudad Valles,240130001,Ciudad Valles,Ciudad Valles,3
+309,24,San Luis Potosí,24016,Ebano,240160001,Ébano,Ébano,3
+310,24,San Luis Potosí,24020,Matehuala,240200001,Matehuala,Matehuala,3
+311,24,San Luis Potosí,24025,Salinas,240250001,Salinas de Hidalgo,Salinas de Hidalgo,3
+312,24,San Luis Potosí,24037,Tamazunchale,240370001,Tamazunchale,Tamazunchale,3
+313,24,San Luis Potosí,24040,Tamuín,240400001,Tamuín,Tamuín,3
+314,25,Sinaloa,25001,Ahome,250010001,Los Mochis,Los Mochis,3
+315,25,Sinaloa,25006,Culiacán,250060001,Culiacán Rosales,Culiacán Rosales,3
+316,25,Sinaloa,25006,Culiacán,250060312,Costa Rica,Costa Rica,3
+317,25,Sinaloa,25008,Elota,250080001,La Cruz,La Cruz,3
+318,25,Sinaloa,25009,Escuinapa,250090001,Escuinapa de Hidalgo,Escuinapa de Hidalgo,3
+319,25,Sinaloa,25011,Guasave,250110001,Guasave,Guasave,3
+320,25,Sinaloa,25011,Guasave,250110132,Gabriel Leyva Solano (Benito Juárez),Gabriel Leyva Solano (Benito Juárez),3
+321,25,Sinaloa,25012,Mazatlán,250120001,Mazatlán,Mazatlán,3
+322,25,Sinaloa,25014,Rosario,250140001,El Rosario,El Rosario,3
+323,25,Sinaloa,25015,Salvador Alvarado,250150001,Guamúchil,Guamúchil,3
+324,25,Sinaloa,25018,Navolato,250180001,Navolato,Navolato,3
+325,25,Sinaloa,25018,Navolato,250180374,Licenciado Benito Juárez (Campo Gobierno),Licenciado Benito Juárez (Campo Gobierno),3
+326,26,Sonora,26002,Agua Prieta,260020001,Agua Prieta,Agua Prieta,3
+327,26,Sonora,26017,Caborca,260170001,Heroica Caborca,Heroica Caborca,3
+328,26,Sonora,26019,Cananea,260190001,Heroica Ciudad de Cananea,Heroica Ciudad de Cananea,3
+329,26,Sonora,26030,Hermosillo,260300001,Hermosillo,Hermosillo,3
+330,26,Sonora,26030,Hermosillo,260300343,Miguel Alemán (La Doce),Miguel Alemán (La Doce),3
+331,26,Sonora,26033,Huatabampo,260330001,Huatabampo,Huatabampo,3
+332,26,Sonora,26036,Magdalena,260360001,Magdalena de Kino,Magdalena de Kino,3
+333,26,Sonora,26042,Navojoa,260420001,Navojoa,Navojoa,3
+334,26,Sonora,26043,Nogales,260430001,Heroica Nogales,Heroica Nogales,3
+335,26,Sonora,26048,Puerto Peñasco,260480001,Puerto Peñasco,Puerto Peñasco,3
+336,26,Sonora,26055,San Luis Río Colorado,260550001,San Luis Río Colorado,San Luis Río Colorado,3
+337,27,Tabasco,27003,Centla,270030001,Frontera,Frontera,3
+338,27,Tabasco,27006,Cunduacán,270060001,Cunduacán,Cunduacán,3
+339,27,Tabasco,27007,Emiliano Zapata,270070001,Emiliano Zapata,Emiliano Zapata,3
+340,27,Tabasco,27008,Huimanguillo,270080001,Huimanguillo,Huimanguillo,3
+341,27,Tabasco,27010,Jalpa de Méndez,270100001,Jalpa de Méndez,Jalpa de Méndez,3
+342,27,Tabasco,27016,Teapa,270160001,Teapa,Teapa,3
+343,27,Tabasco,27017,Tenosique,270170001,Tenosique de Pino Suárez,Tenosique de Pino Suárez,3
+344,28,Tamaulipas,28021,El Mante,280210001,Ciudad Mante,Ciudad Mante,3
+345,28,Tamaulipas,28025,Miguel Alemán,280250001,Ciudad Miguel Alemán,Ciudad Miguel Alemán,3
+346,28,Tamaulipas,28035,San Fernando,280350001,San Fernando,San Fernando,3
+347,28,Tamaulipas,28040,Valle Hermoso,280400001,Valle Hermoso,Valle Hermoso,3
+348,28,Tamaulipas,28041,Victoria,280410001,Ciudad Victoria,Ciudad Victoria,3
+349,29,Tlaxcala,29006,Calpulalpan,290060001,Calpulalpan,Calpulalpan,3
+350,30,Veracruz de Ignacio de la Llave,30010,Altotonga,300100001,Altotonga,Altotonga,3
+351,30,Veracruz de Ignacio de la Llave,30032,Catemaco,300320001,Catemaco,Catemaco,3
+352,30,Veracruz de Ignacio de la Llave,30034,Cerro Azul,300340001,Cerro Azul,Cerro Azul,3
+353,30,Veracruz de Ignacio de la Llave,30047,Coscomatepec,300470001,Coscomatepec de Bravo,Coscomatepec de Bravo,3
+354,30,Veracruz de Ignacio de la Llave,30061,Las Choapas,300610001,Las Choapas,Las Choapas,3
+355,30,Veracruz de Ignacio de la Llave,30071,Huatusco,300710001,Huatusco de Chicuellar,Huatusco de Chicuellar,3
+356,30,Veracruz de Ignacio de la Llave,30077,Isla,300770001,Isla,Isla,3
+357,30,Veracruz de Ignacio de la Llave,30092,Xico,300920001,Xico,Xico,3
+358,30,Veracruz de Ignacio de la Llave,30097,Lerdo de Tejada,300970001,Lerdo de Tejada,Lerdo de Tejada,3
+359,30,Veracruz de Ignacio de la Llave,30109,Misantla,301090001,Misantla,Misantla,3
+360,30,Veracruz de Ignacio de la Llave,30128,Perote,301280001,Perote,Perote,3
+361,30,Veracruz de Ignacio de la Llave,30141,San Andrés Tuxtla,301410001,San Andrés Tuxtla,San Andrés Tuxtla,3
+362,30,Veracruz de Ignacio de la Llave,30143,Santiago Tuxtla,301430001,Santiago Tuxtla,Santiago Tuxtla,3
+363,30,Veracruz de Ignacio de la Llave,30155,Tantoyuca,301550001,Tantoyuca,Tantoyuca,3
+364,30,Veracruz de Ignacio de la Llave,30174,Tierra Blanca,301740001,Tierra Blanca,Tierra Blanca,3
+365,30,Veracruz de Ignacio de la Llave,30183,Tlapacoyan,301830001,Tlapacoyan,Tlapacoyan,3
+366,30,Veracruz de Ignacio de la Llave,30207,Tres Valles,302070001,Tres Valles,Tres Valles,3
+367,31,Yucatán,31038,Hunucmá,310380001,Hunucmá,Hunucmá,3
+368,31,Yucatán,31040,Izamal,310400001,Izamal,Izamal,3
+369,31,Yucatán,31052,Motul,310520001,Motul de Carrillo Puerto,Motul de Carrillo Puerto,3
+370,31,Yucatán,31056,Oxkutzcab,310560001,Oxkutzcab,Oxkutzcab,3
+371,31,Yucatán,31058,Peto,310580001,Peto,Peto,3
+372,31,Yucatán,31079,Tekax,310790001,Tekax de Álvaro Obregón,Tekax de Álvaro Obregón,3
+373,31,Yucatán,31089,Ticul,310890001,Ticul,Ticul,3
+374,31,Yucatán,31096,Tizimín,310960001,Tizimín,Tizimín,3
+375,31,Yucatán,31102,Valladolid,311020001,Valladolid,Valladolid,3
+376,32,Zacatecas,32005,Calera,320050001,Víctor Rosales,Víctor Rosales,3
+377,32,Zacatecas,32020,Jerez,320200001,Jerez de García Salinas,Jerez de García Salinas,3
+378,32,Zacatecas,32022,Juan Aldama,320220001,Juan Aldama,Juan Aldama,3
+379,32,Zacatecas,32024,Loreto,320240001,Loreto,Loreto,3
+380,32,Zacatecas,32034,Nochistlán de Mejía,320340001,Nochistlán de Mejía,Nochistlán de Mejía,3
+381,32,Zacatecas,32036,Ojocaliente,320360001,Ojocaliente,Ojocaliente,3
+382,32,Zacatecas,32039,Río Grande,320390001,Río Grande,Río Grande,3
+383,32,Zacatecas,32042,Sombrerete,320420001,Sombrerete,Sombrerete,3
+384,32,Zacatecas,32048,Tlaltenango de Sánchez Román,320480001,Tlaltenango de Sánchez Román,Tlaltenango de Sánchez Román,3
