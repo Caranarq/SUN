@@ -19,13 +19,14 @@ TIPO_SUN: Tipo de ciudad, de acuerdo con la clasificacion definida en el SUN
 '''
 
 from pandas import read_csv as rcsv
+import pandas as pd
 
 def asignar_sun(dataframe, CVE_MUN = 'CVE_MUN', vars = ['CVE_MUN', 'CVE_SUN', 'NOM_SUN']):
     geo = rcsv(r'D:\PCCS\01_Analysis\01_DataAnalysis\00_Parametros\sun.csv',
                       dtype={'CVE_SUN': str, 'CVE_ENT': str, 'CVE_MUN': str, 'CVE_LOC': str},
                       encoding='UTF-8',
                       )
-    print('Catalogo de variables. Default vars = {}'.format(defaultcols))
+    print('Catalogo de variables. Default vars = {}'.format(vars))
     print(list(geo))
     if 'CVE_MUN' not in vars: vars.append('CVE_MUN')
 
@@ -33,3 +34,4 @@ def asignar_sun(dataframe, CVE_MUN = 'CVE_MUN', vars = ['CVE_MUN', 'CVE_SUN', 'N
     geo = geo[vars]
     dataframe = pd.merge(dataframe, geo, on='CVE_MUN')
     return dataframe
+
